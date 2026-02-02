@@ -25,8 +25,7 @@ Built entirely with **Kotlin** and **Jetpack Compose**, it leverages modern Andr
 
 <details>
   <summary><strong>🎥 View Demo</strong></summary>
-  <!-- Add a GIF or Link to video here -->
-  <p><em>(Screenshots and Demos coming soon)</em></p>
+  <img src="preview.png" alt="LUMIQ Preview" width="100%">
 </details>
 
 ---
