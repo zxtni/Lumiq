@@ -23,10 +23,12 @@
 
 Built entirely with **Kotlin** and **Jetpack Compose**, it leverages modern Android development standards to ensure a fluid experience even on entry-level devices.
 
-<details>
-<strong>🎥 View Demo</strong>
+<h3 align="center">🎥 Demo Preview</h3>
+
+<p align="center">
   <img src="preview.png" alt="LUMIQ Preview" width="100%">
-</details>
+</p>
+
 
 ---
 
